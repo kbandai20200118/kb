@@ -23,14 +23,7 @@
 # id	integer	null:false,unique:true
 # password	string	null:false
 # email	string	null:false, unique:true
-# first_name	string	null:false
-# last_name	string	null:false
-# first_name_kana	string	null:false
-# last_name_kana	string	null:false
-# nickname	string	null:false ,unique:true
 # introduction	text	null:false
-# birthday	string	null:false
-# telephone	string	null:false
 
 # This README would normally document whatever steps are necessary to get the
 application up and running.
