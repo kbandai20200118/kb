@@ -23,7 +23,6 @@
 # id	integer	null:false,unique:true
 # password	string	null:false
 # email	string	null:false, unique:true
-# introduction	text	null:false
 
 # This README would normally document whatever steps are necessary to get the
 application up and running.
